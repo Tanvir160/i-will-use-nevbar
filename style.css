@@ -1,0 +1,5 @@
+.background-linear{
+    background: #00FF00;
+background: linear-gradient(to left, #00FF00 0%, #FF0000 100%);
+
+}
